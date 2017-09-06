@@ -1,0 +1,2 @@
+http://www.reuters.com/finance/currencies/quote?srcAmt=1&srcCurr=USD&destAmt=&destCurr=JPY
+Currency Quote | Reuters.com
